@@ -1,3 +1,3 @@
 # Currency-Converter-
-# C
+# C#
 The App was made using C# 
